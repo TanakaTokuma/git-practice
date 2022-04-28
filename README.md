@@ -1,1 +1,1 @@
-hoge
+new hoge
